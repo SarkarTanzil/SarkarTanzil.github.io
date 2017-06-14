@@ -2,6 +2,7 @@
 <html lang="en">
 
 <head>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
 
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -43,7 +44,7 @@
                 <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
                     <span class="sr-only">Toggle navigation</span> Menu <i class="fa fa-bars"></i>
                 </button>
-                <a class="navbar-brand page-scroll" href="#page-top">ICT BOSS</a>
+                <a class="navbar-brand page-scroll" href="#page-top">SARKAR TANZIL</a>
             </div>
 
             <!-- Collect the nav links, forms, and other content for toggling -->
@@ -56,7 +57,7 @@
                        
                     </li>
                     <li>
-                        <a class="page-scroll" href="#portfolio"> VISIT Portfolio</a>
+                        <a class="page-scroll" href="#portfolio"> Visit Portfolio</a>
                     </li>
                     <li>
                         <a class="page-scroll" href="#about">About me</a>
@@ -64,8 +65,7 @@
                     <li>
                         <a class="page-scroll" href="#team">ping me</a>
                     </li>
-                    <li>
-                        <a class="page-scroll" href="#contact"></a>
+                   
                     </li>
                 </ul>
             </div>
@@ -77,10 +77,10 @@
     <!-- Header -->
     <header>
         <div class="container">
-            <div class="intro-text">I am Sarkar Tanzil.
-                <div class="intro-lead-in">Welcome To Our Studio!</div>
+            <div class="intro-text">
+                <div class="intro-lead-in">Welcome To My Webpage</div>
                 <div class="intro-heading">It's Nice To Meet You</div>
-                <a href="#services" class="page-scroll btn btn-xl">hire me</a>
+                <a href="https://www.freelancer.com/u/LinuxSecurity.html" class="page-scroll btn btn-xl" target="_new">hire me</a>
             </div>
         </div>
     </header>
@@ -89,34 +89,28 @@
     <section id="services">
         <div class="container">
             <div class="row">
-                <div class="col-lg-12 text-center">
-                    <h2 class="section-heading"> My Services</h2>
-                    <h3 class="section-subheading text-muted"></h3>
-                </div>
+               
             </div>
             <div class="row text-center">
                 <div class="col-md-4">
                     <span class="fa-stack fa-4x">
-                        <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                        <i class="fa fa-shopping-cart fa-stack-1x fa-inverse"></i>
+                                      <i class="fa fa-linux" aria-hidden="true"></i>
                     </span>
-                    <h4 class="service-heading">linux</h4>
+                    <h4 class="service-heading">Linux System Admin</h4>
                     <p class="text-muted"></p>
                 </div>
                 <div class="col-md-4">
                     <span class="fa-stack fa-4x">
-                        <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                        <i class="fa fa-laptop fa-stack-1x fa-inverse"></i>
+                       <i class="fa fa-user-secret"></i>
                     </span>
-                    <h4 class="service-heading">ubuntu</h4>
+                    <h4 class="service-heading">Pen Tester</h4>
                     <p class="text-muted"></p>
                 </div>
                 <div class="col-md-4">
                     <span class="fa-stack fa-4x">
-                        <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                        <i class="fa fa-lock fa-stack-1x fa-inverse"></i>
+                       <i class="fa fa-github" aria-hidden="true"></i>
                     </span>
-                    <h4 class="service-heading">github</h4>
+                    <h4 class="service-heading">Open Source Developer</h4>
                     <p class="text-muted"></p>
                 </div>
             </div>
@@ -128,7 +122,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
-                    <h2 class="section-heading"> MY Portfolio</h2>
+                    <h2 class="section-heading">MY Portfolio</h2>
                     <h3 class="section-subheading text-muted"></h3>
                 </div>
             </div>
@@ -140,10 +134,10 @@
                                 <i class="fa fa-plus fa-3x"></i>
                             </div>
                         </div>
-                        <img src="1.png" class="img-responsive" alt="">
+                        <A href="https://www.fiverr.com/sarkartanzil" target="_new"><img src="1.png" class="img-responsive" alt="Sarkar Tanzil Fiverr"></a>
                     </a>
                     <div class="portfolio-caption">
-                        <h4>ubuntu</h4>
+                        <h4>Hire me on Fiverr</h4>
                         <p class="text-muted"></p>
                     </div>
                 </div>
@@ -154,10 +148,10 @@
                                 <i class="fa fa-plus fa-3x"></i>
                             </div>
                         </div>
-                        <img src="2.png" class="img-responsive" alt="">
+                          <a href="https://www.freelancer.com/u/LinuxSecurity.html" target="_new"><img src="3.png" class="img-responsive" alt=""></a>
                     </a>
                     <div class="portfolio-caption">
-                        <h4>github</h4>
+                      <h4>Hire me on Freelancer</h4>
                         <p class="text-muted"></p>
                     </div>
                 </div>
@@ -379,8 +373,8 @@
                                 <h2>Project Heading</h2>
                                 <p class="item-intro text-muted"></p>
                                 <img class="img-responsive img-centered" src="2.png" alt="">
-                                <p><a href="http://designmodo.com/startup/?u=787">github work</a> Doing Internship for Professional Linux Security Developer</p>
-                                <p> <a href="http://designmodo.com/startup/?u=787"></a>.</p>
+                                <p><a href="http://designmodo.com/startup/?u=787"> </a>My github work</p>
+                                <p> <a href="http://designmodo.com/startup/?u=787">ict boss.com</a>.</p>
                                 <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
                             </div>
                         </div>
@@ -409,7 +403,7 @@
                                 <p class="item-intro text-muted"></p>
                                 <img class="img-responsive img-centered" src="3.png" alt="">
                                 <p> <a href="https://www.behance.net/MathavanJaya">Sarkar Tanzil</a>. .</p>
-                                <p>You can download the PSD template in this portfolio sample item at <a href="http://freebiesxpress.com/gallery/treehouse-free-psd-web-template/">ict boss.com</a>.</p>
+                                <p> Professional Linux Security Developer</p> <a href="http://freebiesxpress.com/gallery/treehouse-free-psd-web-template/">ict boss.com</a>.</p>
                                 <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
                             </div>
                         </div>
