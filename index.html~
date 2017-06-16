@@ -162,7 +162,7 @@
                                 <i class="fa fa-plus fa-3x"></i>
                             </div>
                         </div>
-                           <a href="http://www.guru.com/freelancers/sarkar-tanzil" target="_new"><img src="2.png" class="img-responsive" alt="">
+                           <a href="http://www.guru.com/freelancers/sarkar-tanzil" target="_new"><img src="2.png" class="img-responsive" alt=""></a>
                     </a>
                     <div class="portfolio-caption">
                         <h4>Hire me on Guru</h4>
@@ -187,7 +187,7 @@
                     <ul class="timeline">
                         <li>
                             <div class="timeline-image">
-                                <img class="img-circle img-responsive" src="" ="">
+                                <img class="img-circle img-responsive" src="">
                             </div>
                             <div class="timeline-panel">
                                 <div class="timeline-heading">
@@ -195,8 +195,7 @@
                                     <h4 class="subheading"></h4>
                                 </div>
                                 <div class="timeline-body">
-                                    <p class="text-muted">I will responsible for your project to upkeep, installation, configuration, security and reliable operation of Linux computer systems; especially multi-user Linux servers:
-</p>
+                                    <p class="text-muted">I am professional Linux system admin specialished in Ubuntu 16.04 LTS. I </p>
                                 </div>
                             </div>
                         </li>
